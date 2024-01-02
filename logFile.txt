@@ -1,0 +1,6 @@
+2023-12-19 06:53:24.141943 log generated 
+2023-12-19 06:53:24.141943 Input Number is Entered: 2
+2023-12-19 06:53:24.141943 Key values are entered: {'name': 'Krishay', 'age': '5'}
+2023-12-19 06:53:24.141943 Key values are entered: {'name': 'Naren', 'age': '38'}
+ *****End*** 
+ 
