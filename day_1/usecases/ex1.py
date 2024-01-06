@@ -3,7 +3,8 @@ listVal = [11,12,15]
 len1=len(listVal)
 if len1 != 0:
     for x in listVal:
-        print("Values in the list",x)
+        print("Values in the list method2",x)
+print("\n=======")
         
 #Method2(for loop using range)
 listVal = [11,12,15]
